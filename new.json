@@ -1,0 +1,9 @@
+{
+	"Full name":"Alexey",
+	"age":39,
+	"Pets":{
+		"quantity":1,
+		"name":"Bonya" },
+	"Expected salary":"1200$"
+
+}
