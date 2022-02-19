@@ -5,7 +5,10 @@
 		"documents",
 		"method",
 		"structure json",
-		"oher theory about JSOn"
+		"oher theory about json, xml",
+		"python",
+		"Postman",
+		"AndroidStudio"
 	],
 	"architecture": "client-server",
 	"apps": "XCode",
