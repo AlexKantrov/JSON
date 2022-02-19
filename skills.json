@@ -7,7 +7,7 @@
 		"structure json",
 		"oher theory about JSOn"
 	],
-	"architecture": "klient-server",
+	"architecture": "client-server",
 	"apps": "XCode",
 	"server response": "200, 301, 303, etc"
 
