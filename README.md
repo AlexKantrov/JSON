@@ -55,20 +55,20 @@
      **`touch skills.json => vim skills.json`**
  ```
  {
-	"theory and practice": [
-		"testing",
-		"bag report",
-		"documents",
-		"method",
-		"structure json",
-		"oher theory about json, xml",
-		"python",
-		"Postman",
-		"AndroidStudio"
+"theory and practice": [
+	"testing",
+	"bag report",
+	"documents",
+	"method",
+	"structure json",
+	"oher theory about json, xml",
+	"python",
+	"Postman",
+	"AndroidStudio"
 	],
-	"architecture": "client-server",
-	"apps": "XCode",
-	"server response": "200, 301, 303, etc"
+"architecture": "client-server",
+"apps": "XCode",
+"server response": "200, 301, 303, etc"
 }
 ``` 
  12. Отправить сразу 2 файла на внешний репозиторий.  
